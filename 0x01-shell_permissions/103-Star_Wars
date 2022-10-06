@@ -1,2 +1,2 @@
 #!/bin/bash
-mod
+telnet towel.blinkenlights.nl
